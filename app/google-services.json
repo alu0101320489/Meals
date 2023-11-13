@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "649691316010",
+    "firebase_url": "https://nba-api-4733a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nba-api-4733a",
+    "storage_bucket": "nba-api-4733a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649691316010:android:eaf100260b167c0fade853",
+        "android_client_info": {
+          "package_name": "com.firebase.uidemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_92s1f2W9mK-tpPu9G9cAiGJB3tu57c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649691316010:android:62329691432163ecade853",
+        "android_client_info": {
+          "package_name": "es.upm.miw.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_92s1f2W9mK-tpPu9G9cAiGJB3tu57c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
